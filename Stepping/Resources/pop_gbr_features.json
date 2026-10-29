@@ -1,0 +1,33 @@
+{
+  "features": [
+    "h",
+    "seff",
+    "bg0",
+    "hour",
+    "sin_h",
+    "cos_h",
+    "dow",
+    "weekend",
+    "hr_rise",
+    "hr_rest",
+    "hr_walk",
+    "hr_cov",
+    "pre_trend15",
+    "mean_cadence",
+    "duration_min",
+    "total_steps",
+    "hr_rise_miss",
+    "hr_rest_miss",
+    "hr_walk_miss",
+    "hr_cov_miss",
+    "pre_trend15_miss"
+  ],
+  "medians": {
+    "hr_rise": 17.0,
+    "hr_rest": 92.0,
+    "hr_walk": 109.6,
+    "hr_cov": 0.2,
+    "pre_trend15": -0.48654060066740945
+  },
+  "safety_margin": 200.0
+}

@@ -1,0 +1,9 @@
+{
+  "alpha": 1.0218932506168286,
+  "beta": -4.483270357031413,
+  "fit_walks": 1065,
+  "eval_walks": 506,
+  "steps_per_mile": 2000.0,
+  "pop_margin": 200.0,
+  "personal_margin": 30.0
+}
